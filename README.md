@@ -1,4 +1,4 @@
-This is project from the 100 days Full-Stack Web Development class with Angela Yu on Udemy.
+This is a simple web project from the 100 days of Full-Stack Web Development class with Angela Yu on Udemy.
 
 I made a little bit customization to the project.
 
